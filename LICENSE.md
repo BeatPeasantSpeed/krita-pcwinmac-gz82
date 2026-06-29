@@ -1,4 +1,4 @@
-# 
+# Avançado Krita plugins para Mac OS | Turbo Krita plugins para PC Windows. Com balde de tinta e simulação de física — otimizado para máximo desempenho em cada plataforma.
 
 
 
